@@ -12,5 +12,8 @@ features:
   - title: ระบบแจ้งเตือนพัสดุผ่าน LINE
     details: aka Parcel notification via LINE, Parcetrace
     link: content/parcetrace
+  - title: LPMC guide
+    details: Commands usage and guide for LPMC server
+    link: content/lpmc-guide
 ---
 
